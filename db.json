@@ -1,0 +1,28 @@
+{
+    "suppliers": [
+        {
+            "name": "Google cloud platform",
+            "email": "googlemaster@gmail.com",
+            "twist_key": "015",
+            "suppliers_turn": "Tecnología y redes de comunicación",
+            "location": "New york USA.",
+            "status": "active"
+        },
+        {
+            "name": "Amazon web services",
+            "email": "awssupport@gmail.com",
+            "twist_key": "302",
+            "suppliers_turn": "Tecnología y redes de comunicación",
+            "location": "Ohio Estado de EE. UU.",
+            "status": "active"
+        },
+        {
+            "name": "Microsoft",
+            "email": "auzure@gmail.com",
+            "twist_key": "311",
+            "suppliers_turn": "Tecnología y redes de comunicación",
+            "location": "Massachusetts US.",
+            "status": "inactive"
+        }
+    ]
+}
